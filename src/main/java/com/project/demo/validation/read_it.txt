@@ -1,0 +1,8 @@
+I tried to make custom validation for gmail part. 
+
+I wanted features like-
+    1. @gmail.com is the only valid extention
+    2. there should be a mix of digits and characters before '@'
+    3. special characters restriction (except '.')
+
+However, anyone who wants to do it and help with that to my project is welcome.
